@@ -5,7 +5,7 @@
 		info:	1st Teamwork exercise
 		course subject: Algorithm Design and Analysis
 		professor:	Dr. HajAhmadi
-		team members:	Parsa KamaliPour 97149081, Hosein Ahmadi 97149003, Narges RafieeZadeh 97149048
+		team members:	Parsa KamaliPour , Hosein Ahmadi , Narges RafieeZadeh 
 
 ***************************************************************************************************************/
 
